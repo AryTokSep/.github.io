@@ -1,5 +1,5 @@
 @media all and (max-width: 1000px) {
-  .header-right a {
+  .container-header a {
     display: none;
   }
 }
