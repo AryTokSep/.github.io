@@ -1,0 +1,115 @@
+@media all and (max-width: 1000px) {
+}
+
+@media all and (max-width: 844px) {
+  .picture {
+    margin-right: 20px;
+  }
+  .container-main h1 {
+    margin-top: 260px;
+    text-align: center;
+  }
+
+  .container-main p {
+    padding-left: 20px;
+    text-align: center;
+    padding-right: 20px;
+  }
+
+  .download {
+    margin-left: 55px;
+  }
+
+  .recent {
+    font-weight: 200;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+
+  .view {
+    margin: 0;
+    font-weight: 200;
+    font-size: 14px;
+    text-align: right;
+    float: none;
+    margin-left: 215px;
+  }
+
+  .view:hover {
+    margin-left: 0px;
+  }
+
+  .line1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 38px;
+    color: #21243d;
+    padding-left: 25px;
+    padding-top: 50px;
+  }
+
+  .line2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #21243d;
+    padding-left: 50px;
+  }
+
+  .line3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #21243d;
+    padding-right: 65px;
+  }
+
+  .container-main1 {
+    padding: 0;
+  }
+
+  .list2 {
+    float: none;
+    margin-top: 310px;
+  }
+
+  .work-list {
+    padding-top: 30px;
+    padding-left: 45px;
+  }
+
+  .recent-list {
+    height: 700px;
+  }
+
+  .featured {
+    padding-left: 50px;
+  }
+
+  .text-content {
+    text-align: center;
+  }
+
+  .text-content p {
+    text-align: center;
+  }
+
+  .footer-icon a {
+    padding-left: 5px;
+  }
+
+  .footer-end {
+    padding-left: 3px;
+  }
+
+  .menu-icon {
+    display: block;
+    float: left;
+    margin-left: 360px;
+    margin-top: 5px;
+  }
+}
